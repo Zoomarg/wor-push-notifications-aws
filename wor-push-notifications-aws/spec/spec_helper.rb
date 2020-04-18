@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "wor/authentication"
+require "wor/push/notifications/aws"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
