@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "zoom.news"
   spec.description   = "zoom.news"
-  spec.homepage      = "zoom.news"
+  spec.homepage      = "https://github.com/LVSMix/wor-push-notifications-aws.git"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
@@ -21,7 +21,7 @@ Gem::Specification.new do |spec|
 
     spec.metadata["homepage_uri"] = spec.homepage
     spec.metadata["source_code_uri"] = "https://github.com/LVSMix/wor-push-notifications-aws.git"
-    spec.metadata["changelog_uri"] = "zoom.news"
+    spec.metadata["changelog_uri"] = "https://github.com/LVSMix/wor-push-notifications-aws.git"
   else
     raise "RubyGems 2.0 or newer is required to protect against " \
       "public gem pushes."
