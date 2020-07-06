@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
   end
   spec.require_paths = ["lib"]
 
-  spec.add_dependency 'railties', '>= 5.0'
-  spec.add_dependency 'aws-sdk-rails', '~> 3.0'
-  spec.add_dependency 'aws-sdk-resources', '~> 3.0.1'
+  spec.add_dependency 'railties'
+  spec.add_dependency 'aws-sdk-rails'
+  spec.add_dependency 'aws-sdk-resources'
 end
