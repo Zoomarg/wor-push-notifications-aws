@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/wor-push-notifications-aws.iml" filepath="$PROJECT_DIR$/.idea/wor-push-notifications-aws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wor-push-notifications-aws1.iml" filepath="$PROJECT_DIR$/.idea/modules/wor-push-notifications-aws1.iml" />
     </modules>
   </component>
 </project>

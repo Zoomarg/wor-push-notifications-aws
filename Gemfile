@@ -1,10 +1,15 @@
 source 'https://rubygems.org'
 
+ruby '2.6.6'
+
+gem 'railties'
+gem 'aws-sdk-rails'
+
 # Specify your gem's dependencies in wor-push-notifications-aws.gemspec
 gemspec
 
 group :development do
-  gem 'bundler', '~> 1.13'
+  gem 'bundler', '~> 2.1.4'
   gem 'byebug', '~> 9.0'
   gem 'codeclimate-test-reporter', '~> 1.0.0'
   gem 'generator_spec'

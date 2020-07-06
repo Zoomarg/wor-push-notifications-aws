@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'Easily send Push Notifications to your application using AWS Simple Notification Service (SNS)'
   spec.description   = 'Provide basic set up for storing device tokens and sending Push Notifications to your application using AWS Simple Notification Service (SNS)'
-  spec.homepage      = "https://github.com/Wolox/wor-push-notifications-aws"
+  spec.homepage      = "https://github.com/Zoomarg/wor-push-notifications-aws"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
@@ -19,6 +19,6 @@ Gem::Specification.new do |spec|
   end
   spec.require_paths = ["lib"]
 
-  spec.add_dependency 'railties', '>= 4.1.0', '< 5.2'
-  spec.add_dependency 'aws-sdk-rails', "~> 1.0"
+  spec.add_dependency 'railties', '>= 5.0'
+  spec.add_dependency 'aws-sdk-rails', "~> 3.0"
 end
