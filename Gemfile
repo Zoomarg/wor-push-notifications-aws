@@ -4,6 +4,8 @@ ruby '2.6.6'
 
 gem 'railties'
 gem 'aws-sdk-rails'
+gem 'aws-sdk-resources', '~> 3'
+
 
 # Specify your gem's dependencies in wor-push-notifications-aws.gemspec
 gemspec
