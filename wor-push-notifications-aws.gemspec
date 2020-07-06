@@ -21,5 +21,5 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'railties', '>= 5.0'
   spec.add_dependency 'aws-sdk-rails', '~> 3.0'
-  spec.add_dependency 'aws-sdk-resources', '~> 3.0'
+  spec.add_dependency 'aws-sdk-resources', '~> 3.0.1'
 end
