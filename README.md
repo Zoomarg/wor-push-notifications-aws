@@ -135,10 +135,10 @@ Postgres 9.3 or higher is required.
 7. Create a new Pull Request
 
 ## About
-This project is maintained by [Leandro Masello](https://github.com/lmasello) along with
-[Francisco Landino](https://github.com/plandino) and it was written by
-[Wolox](http://www.wolox.com.ar).
-![Wolox](https://raw.githubusercontent.com/Wolox/press-kit/master/logos/logo_banner.png)
+This project is maintained by [Zoom News](https://github.com/Zoomarg) along with
+[Luis Ventocilla](https://github.com/LVSMix) and it was written by
+[Zoomarg](https://github.com/Zoomarg).
+
 
 ## License
 **wor-push-notifications-aws** is available under the MIT [license](https://raw.githubusercontent.com/Wolox/wor-push-notifications-aws/master/LICENSE.txt).
