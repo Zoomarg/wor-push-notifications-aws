@@ -1,5 +1,8 @@
 Change log
 
+[0.1.3] - 2020-07-05
+- Se actualiza a la version aws-sdk 3.0
+
 [0.1.2] - 2017-08-04
 
 - Adds validations for the `message_content`
